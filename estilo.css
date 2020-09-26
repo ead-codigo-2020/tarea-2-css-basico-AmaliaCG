@@ -3,9 +3,11 @@
 
 body {
     background: #d2f6c5;
+    padding-top: 4%;
+    padding-bottom: 4%;
     padding-left: 20%;
     padding-right: 20%;
-    padding-top: 5%;
+    border: 1px solid #000000;
 }
 
 h1 {
